@@ -1,6 +1,5 @@
 # Problem Definition:
-Correlation between Reddit daily thread and Stock market performance
-Classification problem
+Correlation between Reddit daily thread and Stock market performance - Classification problem
 
 # Steps: 
 

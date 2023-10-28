@@ -1,4 +1,7 @@
-# Reddit_NQ_ML
+# Problem Definition:
+Correlation between Reddit daily thread and Stock market performance
+
+# Steps: 
 
 ## 1. Data inspection
   - meta features
@@ -27,4 +30,3 @@
   - Accuracy
   - F1
 
-## 6. Analysis
